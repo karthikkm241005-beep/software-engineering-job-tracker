@@ -1,18 +1,14 @@
-# Software Engineering Job Tracker
+# Simple Interest Calculator
 
-This project is a simple Python application that helps track job applications for software engineering roles.
-
-## Features
-- Add new job applications
-- View all applications
-- Update application status
-- Save data locally
+This project is a simple web-based calculator that computes simple interest.
 
 ## Technologies Used
-- Python 3
-- JSON for data storage
+- HTML
+- CSS
+- JavaScript
 
-## How to Run
-1. Install Python
-2. Run the program:
-   python app.py
+## Formula Used
+Simple Interest = (P × R × T) / 100
+
+## Description
+This project allows users to enter principal, rate, and time to calculate the simple interest easily.
